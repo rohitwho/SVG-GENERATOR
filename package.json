@@ -1,0 +1,28 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitwho/SVG-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    
+    "url": "https://github.com/rohitwho/SVG-Generator/issues"
+  },
+  "homepage": "https://github.com/rohitwho/SVG-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
