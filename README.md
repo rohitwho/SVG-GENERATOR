@@ -41,7 +41,7 @@ https://drive.google.com/file/d/18j6WNGnWZnEfGkhmr_j6CQDB6SLk03ri/view?usp=shari
 SVG Generator `npm install` 
 
 ## Features
-
+Creates Svg File with the help of command line interface.
 
 ##  Dependencies
 `npm install` Inquirer,FileSystem,Jest.
