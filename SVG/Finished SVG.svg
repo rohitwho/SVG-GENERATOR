@@ -1,1 +1,1 @@
-<svg version="1.1"  viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><circle cx="50" cy="50" r="40" fill="yellow" /> <text x="50%" y="55" font-size="20" text-anchor="middle" fill="green">SAL</text></svg>
+<svg version="1.1"  viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><circle cx="50" cy="50" r="40" fill="blue" /> <text x="50%" y="55" font-size="20" text-anchor="middle" fill="red">SVG</text></svg>

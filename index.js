@@ -91,9 +91,11 @@ function generateSvg() {
     let newShape;
     if (chosenShapeType === "Square") {
       newShape = new Square();
-    } else if (chosenShapeType === "Circle") {
+    } 
+    else if (chosenShapeType === "Circle") {
       newShape = new Circle();
-    } else if (chosenShapeType === "Triangle") {
+    } 
+    else if (chosenShapeType === "Triangle") {
       newShape = new Triangle();
     }
 
@@ -108,7 +110,7 @@ function generateSvg() {
 
     let data = "";
     data = updateInfo.getShape();
-    console.log("Your SVG is ready please check the SVG folder.")
+    console.log("Your SVG  file is ready please check the Finished.Svg under the SVG Folder.")
    
     let fileName = "./SVG/Finished SVG.svg"
 
